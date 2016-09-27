@@ -1,5 +1,5 @@
 # 
-chat with pseudo ai system that is able to talk Japanese.
+Chat with pseudo ai system that is able to talk Japanese.
 
 # Synopsis
 Enjoy chatting with pseudo ai system.
